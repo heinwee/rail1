@@ -443,7 +443,7 @@ i.extra{display: block; width:30px;height:30px;border:1px solid #fc5767;font-siz
 .potionTable table{width: 100%;background: #fff;}
 .potionTable table th{height:36px;font-size:12px;color:#fff;border:none;text-align: center;background: #fc5767;}
 .potionTable table td{font-size:12px;line-height:36px;color:#333;border:none;text-align:center;}
-div.co{position: absolute;top:0;width:1200px;text-align:center;}
+div.co{position: absolute;top:0;text-align:center;}
 div.co h5{display: inline-block; height:24px;font-size:12px;line-height:24px;padding:0 12px;text-align: center;color:#fff;background: #fc5767;border-radius:  0 0 4px 4px;}
 .list_ps{width:800px;font-size:13px;line-height:24px;text-align: left;float:left;margin-top:20px;color:#999;}
 /*获取报价*/
