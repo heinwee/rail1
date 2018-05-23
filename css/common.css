@@ -46,7 +46,7 @@
 .flag ul li a i.thai{background:url(../images/icon_national_flag.png) 0 -224px;}
 
 
-.bg_header{width:100%;height:120px;background: #fff;box-shadow: 0 5px 10px rgba(0,0,0,.4);position: relative;z-index:0;}
+.bg_header{width:100%;min-width: 1200px; height:120px;background: #fff;box-shadow: 0 5px 10px rgba(0,0,0,.4);position: relative;z-index:0;}
 .logo_text{width:100px;float:left;height:36px;margin:42px 200px 0 0;}
 .logo_icon{width:60px;float:right;height:60px;margin-top:30px;background: url(../images/logo_icon.png) no-repeat;}
 .acc_mT{margin-top:35px;}
@@ -228,7 +228,7 @@ p.h2_intro{display: block;width:400px;font-size:18px;line-height:30px;color:#666
 .bg_link ul li a:hover{color:#2960fb;}
 
 
-.footer{width:100%;margin-top:80px;background: #333;padding:40px 0;}
+.footer{width:100%;min-width: 1200px;margin-top:80px;background: #333;padding:40px 0;}
 .nav_foot{float:left;width:500px;}
 .nav_foot li{float:left;margin-right:32px;font-size:16px;line-height: 16px;}
 .nav_foot li a{color:#fff;}
