@@ -333,7 +333,7 @@ input.warm{color:#f00;}
 .ok_reg p a:hover{text-decoration: underline;}
 /*step*/
 .bg_step{width:100%;background: #fff;display: inline-block;padding-bottom: 50px;}
-.step_reg{margin:50px auto 0 auto;max-width: 660px;min-width:640px;height:24px;}
+.step_reg{margin:50px auto 0 auto;height:24px;display: table;}
 .step_reg li{float:left;display: inline-block;height:24px;font-size:18px;line-height:26px;color:#aaaaaa;text-indent: 36px;position: relative;}
 .step_reg li i{display: block; width:24px;height:24px;background:#aaaaaa;font-size:16px;line-height: 24px;text-align: center;color:#fff;text-indent: 0;font-style: normal;border-radius: 12px;position: absolute;left:0;}
 .step_reg li.current{color:#265df1;}
